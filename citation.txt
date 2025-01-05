@@ -1,0 +1,10 @@
+@article{REPO080,
+    author = "Jakob, Wenzel and Speierer, S{\'e}bastien and Roussel, Nicolas and Vicini, Delio",
+    doi = "10.1145/3528223.3530099",
+    journal = "Transactions on Graphics (Proceedings of SIGGRAPH)",
+    month = "July",
+    number = "4",
+    title = "{Dr.Jit: A Just-In-Time Compiler for Differentiable Rendering}",
+    volume = "41",
+    year = "2022"
+}
